@@ -1,0 +1,6 @@
+{
+  "name": "Log Nautico GPS",
+  "description": "Tachimetro marino, bussola di prua curva a 60°, tracciamento scia GPS, carta idrografica multi-punto e gestione rotte di navigazione.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

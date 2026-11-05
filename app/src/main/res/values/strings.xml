@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Log Nautico GPS</string>
+    <string name="notification_channel_name">Navigazione Marina Attiva</string>
+    <string name="notification_channel_desc">Notifica persistente per telemetria GPS e navigazione rotta in background</string>
+</resources>

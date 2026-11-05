@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Scaled to 0.72 around center (256, 256) so '00.0' fits inside Samsung Galaxy adaptive icon safe zone -->
+    <group
+        android:scaleX="0.72"
+        android:scaleY="0.72"
+        android:pivotX="256"
+        android:pivotY="256">
+
+        <!-- First '0' -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M79.02,110.00 L171.27,110.00 L174.39,113.29 L149.91,133.50 L98.08,133.50 L75.56,113.29 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M173.72,112.58 L176.85,115.88 L170.70,241.66 L158.38,253.41 L147.20,241.66 L152.36,136.09 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M158.12,258.59 L169.30,270.34 L163.15,396.13 L159.70,399.42 L140.64,375.92 L145.80,270.34 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M86.09,378.50 L137.92,378.50 L160.44,398.71 L156.98,402.00 L64.73,402.00 L61.61,398.71 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M65.30,270.34 L77.62,258.59 L88.80,270.34 L83.64,375.92 L62.28,399.42 L59.15,396.13 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M72.85,115.88 L76.30,112.58 L95.36,136.09 L90.20,241.66 L77.88,253.41 L66.70,241.66 Z"/>
+
+        <!-- Second '0' -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M201.02,110.00 L293.27,110.00 L296.39,113.29 L271.91,133.50 L220.08,133.50 L197.56,113.29 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M295.72,112.58 L298.85,115.88 L292.70,241.66 L280.38,253.41 L269.20,241.66 L274.36,136.09 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M280.12,258.59 L291.30,270.34 L285.15,396.13 L281.70,399.42 L262.64,375.92 L267.80,270.34 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M208.09,378.50 L259.92,378.50 L282.44,398.71 L278.98,402.00 L186.73,402.00 L183.61,398.71 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M187.30,270.34 L199.62,258.59 L210.80,270.34 L205.64,375.92 L184.28,399.42 L181.15,396.13 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M194.85,115.88 L198.30,112.58 L217.36,136.09 L212.20,241.66 L199.88,253.41 L188.70,241.66 Z"/>
+
+        <!-- Nautical Decimal Point '.' -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M302.01,378.50 L323.01,378.50 L321.86,402.00 L300.86,402.00 Z"/>
+
+        <!-- Third '0' (Tenths digit) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M359.02,110.00 L451.27,110.00 L454.39,113.29 L429.91,133.50 L378.08,133.50 L355.56,113.29 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M453.72,112.58 L456.85,115.88 L450.70,241.66 L438.38,253.41 L427.20,241.66 L432.36,136.09 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M438.12,258.59 L449.30,270.34 L443.15,396.13 L439.70,399.42 L420.64,375.92 L425.80,270.34 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M366.09,378.50 L417.92,378.50 L440.44,398.71 L436.98,402.00 L344.73,402.00 L341.61,398.71 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M345.30,270.34 L357.62,258.59 L368.80,270.34 L363.64,375.92 L342.28,399.42 L339.15,396.13 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M352.85,115.88 L356.30,112.58 L375.36,136.09 L370.20,241.66 L357.88,253.41 L346.70,241.66 Z"/>
+    </group>
+</vector>
